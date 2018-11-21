@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRater_MVC", "MediaRater_MVC\MediaRater_MVC.csproj", "{BDC41AAD-0988-4EE9-9104-5796FE4A5486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC41AAD-0988-4EE9-9104-5796FE4A5486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC41AAD-0988-4EE9-9104-5796FE4A5486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC41AAD-0988-4EE9-9104-5796FE4A5486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC41AAD-0988-4EE9-9104-5796FE4A5486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB3525D-0D1F-48E2-8B32-7BA705F0CEB3}
+	EndGlobalSection
+EndGlobal
